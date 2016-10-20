@@ -8,7 +8,7 @@ NIA    | User name | Repo | Build Status | What was explored | Alternative | Sco
 666156 | BAREA LÓPEZ, DANIEL
 666179 | BARRIOS GIL, ÁLVARO
 612595 | BELTRÁN PIÑOL, VÍCTOR
-683326 | BINTANED BASA, JESÚS | [![Build Status](https://travis-ci.org/jebiba95/lab2-big-ws.svg)](https://travis-ci.org/jebiba95/lab2-big-ws)
+683326 | BINTANED BASA, JESÚS | (https://github.com/jebiba95/lab2-big-ws/tree/test) | [![Build Status](https://travis-ci.org/jebiba95/lab2-big-ws/tree/test.svg)](https://travis-ci.org/jebiba95/lab2-big-ws/tree/test) | I implemented a test that verifies that correct translate a text in Spanish to Afrikaans.
 649003 | CAUDEVILLA CASAUS, JOSE ÁNGEL
 750846 | DAVID MOLINA, JOHN ALEXIS
 529361 | DUMITRACHE , CATALIN  CONSTANTIN
