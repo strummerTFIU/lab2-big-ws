@@ -7,7 +7,7 @@ NIA    | User name | Repo | Build Status | What was explored | Alternative | Sco
 647002 | AGUILAR REQUENA, EDUARDO
 666156 | BAREA LÓPEZ, DANIEL
 666179 | BARRIOS GIL, ÁLVARO
-612595 | BELTRÁN PIÑOL, VÍCTOR | (https://github.com/Victorbp09/lab2-big-ws) | [![Build Status](https://travis-ci.org/Victorbp09/lab2-big-ws.svg)](https://travis-ci.org/Victorbp09/lab2-big-ws) | Explore translation between french and english
+612595 | BELTRÁN PIÑOL, VÍCTOR | (https://github.com/Victorbp09/lab2-big-ws/tree/test) | [![Build Status](https://travis-ci.org/Victorbp09/lab2-big-ws.svg)](https://travis-ci.org/Victorbp09/lab2-big-ws) | Explore translation between french and english
 683326 | BINTANED BASA, JESÚS
 649003 | CAUDEVILLA CASAUS, JOSE ÁNGEL
 750846 | DAVID MOLINA, JOHN ALEXIS
