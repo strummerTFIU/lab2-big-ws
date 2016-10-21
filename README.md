@@ -16,7 +16,7 @@ NIA    | User name | Repo | Build Status | What was explored | Alternative | Sco
 680258 | GARCIA DE QUIROS GIMENEZ, JORGE
 680669 | GUIU PÉREZ, ALEJANDRO
 682531 | JUAN CIRIACO, ÁLVARO
-544393 | LAHOZ EGEA, CRISTINA
+544393 | LAHOZ EGEA, CRISTINA | [Repo](https://github.com/cristinalahoz/lab2-big-ws/tree/test) | [![Build Status](https://travis-ci.org/cristinalahoz/lab2-big-ws.svg?branch=test)](https://travis-ci.org/cristinalahoz/lab2-big-ws) | Added tests that verifies correct translation from english to italian or french.
 622612 | MARTIN SEGURA, SERGIO
 681061 | MARTÍNEZ MENÉNDEZ, ALBERTO
 576307 | MARTÍNEZ PÉREZ, ADRIAN
