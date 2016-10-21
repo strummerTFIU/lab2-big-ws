@@ -4,7 +4,7 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab2-big
 
 NIA    | User name | Repo | Build Status | What was explored | Alternative | Score
 -------|-----------|------|--------------|-------------------|-------------|--------
-647002 | AGUILAR REQUENA, EDUARDO 
+647002 | AGUILAR REQUENA, EDUARDO
 666156 | BAREA LÓPEZ, DANIEL
 666179 | BARRIOS GIL, ÁLVARO
 612595 | BELTRÁN PIÑOL, VÍCTOR
