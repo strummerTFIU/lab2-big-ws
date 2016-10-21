@@ -8,7 +8,7 @@ NIA    | User name | Repo | Build Status | What was explored | Alternative | Sco
 666156 | BAREA LÓPEZ, DANIEL
 666179 | BARRIOS GIL, ÁLVARO
 612595 | BELTRÁN PIÑOL, VÍCTOR |[repo](https://github.com/Victorbp09/lab2-big-ws/tree/test) | [![Build Status](https://travis-ci.org/Victorbp09/lab2-big-ws.svg?branch=test)](https://travis-ci.org/Victorbp09/lab2-big-ws) | Explore translation between french and english
-683326 | BINTANED BASA, JESÚS
+683326 | BINTANED BASA, JESÚS | [jebiba95 test branch](https://github.com/jebiba95/lab2-big-ws/tree/test) | [![Build Status](https://travis-ci.org/jebiba95/lab2-big-ws.svg?branch=test)](https://travis-ci.org/jebiba95/lab2-big-ws?branch=test) | I implemented a test that verifies that correct translate a text in Spanish to Afrikaans.
 649003 | CAUDEVILLA CASAUS, JOSE ÁNGEL
 750846 | DAVID MOLINA, JOHN ALEXIS
 529361 | DUMITRACHE , CATALIN  CONSTANTIN
@@ -20,7 +20,7 @@ NIA    | User name | Repo | Build Status | What was explored | Alternative | Sco
 622612 | MARTIN SEGURA, SERGIO
 681061 | MARTÍNEZ MENÉNDEZ, ALBERTO
 576307 | MARTÍNEZ PÉREZ, ADRIAN
-540891 | MENENDEZ MOYA, FRANCISCO
+540891 | MENENDEZ MOYA, FRANCISCO | [Repo](https://github.com/fmenemo/lab2-big-ws/tree/test) | [![Build Status](https://travis-ci.org/fmenemo/lab2-big-ws.svg?branch=test)](https://travis-ci.org/fmenemo/lab2-big-ws) | Added translation tests from spanish to german
 680882 | MORENO JIMENO, RUBÉN
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO
 650448 | MURILLO MAGDALENA, JAVIER
