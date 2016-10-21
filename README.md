@@ -4,7 +4,7 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab2-big
 
 NIA    | User name | Repo | Build Status | What was explored | Alternative | Score
 -------|-----------|------|--------------|-------------------|-------------|--------
-647002 | AGUILAR REQUENA, EDUARDO
+647002 | AGUILAR REQUENA, EDUARDO 
 666156 | BAREA LÓPEZ, DANIEL
 666179 | BARRIOS GIL, ÁLVARO
 612595 | BELTRÁN PIÑOL, VÍCTOR
@@ -20,7 +20,7 @@ NIA    | User name | Repo | Build Status | What was explored | Alternative | Sco
 622612 | MARTIN SEGURA, SERGIO
 681061 | MARTÍNEZ MENÉNDEZ, ALBERTO
 576307 | MARTÍNEZ PÉREZ, ADRIAN
-540891 | MENENDEZ MOYA, FRANCISCO
+540891 | MENENDEZ MOYA, FRANCISCO | [Repo](https://github.com/fmenemo/lab2-big-ws/tree/test) | [![Build Status](https://travis-ci.org/fmenemo/lab2-big-ws.svg?branch=test)](https://travis-ci.org/fmenemo/lab2-big-ws) | Added translation tests from spanish to german
 680882 | MORENO JIMENO, RUBÉN
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO
 650448 | MURILLO MAGDALENA, JAVIER
