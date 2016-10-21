@@ -21,7 +21,7 @@ NIA    | User name | Repo | Build Status | What was explored | Alternative | Sco
 681061 | MARTÍNEZ MENÉNDEZ, ALBERTO
 576307 | MARTÍNEZ PÉREZ, ADRIAN
 540891 | MENENDEZ MOYA, FRANCISCO | [Repo](https://github.com/fmenemo/lab2-big-ws/tree/test) | [![Build Status](https://travis-ci.org/fmenemo/lab2-big-ws.svg?branch=test)](https://travis-ci.org/fmenemo/lab2-big-ws) | Added translation tests from spanish to german
-680882 | MORENO JIMENO, RUBÉN
+680882 | MORENO JIMENO, RUBÉN | [repo](https://github.com/nebur395/lab2-big-ws/) | [![Build Status](https://github.com/nebur395/lab2-big-ws/tree/test.svg)](https://github.com/nebur395/lab2-big-ws/tree/test) | Added translation test from Spanish to Russian | | 
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO
 650448 | MURILLO MAGDALENA, JAVIER
 453948 | NAVARRO CLARAS, MARIO
