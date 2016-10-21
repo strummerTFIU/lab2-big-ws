@@ -22,7 +22,7 @@ NIA    | User name | Repo | Build Status | What was explored | Alternative | Sco
 576307 | MARTÍNEZ PÉREZ, ADRIAN
 540891 | MENENDEZ MOYA, FRANCISCO | [Repo](https://github.com/fmenemo/lab2-big-ws/tree/test) | [![Build Status](https://travis-ci.org/fmenemo/lab2-big-ws.svg?branch=test)](https://travis-ci.org/fmenemo/lab2-big-ws) | Added translation tests from spanish to german
 680882 | MORENO JIMENO, RUBÉN
-750849 | MOSQUERA ZAPATA, LUIS EDUARDO | [Repo](https://github.com/luisemz/lab2-big-ws/tree/test) | [![Build Status](https://travis-ci.org/luisemz/lab2-big-ws.svg?branch=test)](https://travis-ci.org/luisemz/lab2-big-ws) | Added translation tests from spanish to french and assertThat getResultCode is "ok"
+750849 | MOSQUERA ZAPATA, LUIS EDUARDO | [TestRepo](https://github.com/luisemz/lab2-big-ws/tree/test) | [![Build Status](https://travis-ci.org/luisemz/lab2-big-ws.svg?branch=test)](https://travis-ci.org/luisemz/lab2-big-ws) | Added translation tests from spanish to french and assertThat getResultCode is "ok"
 650448 | MURILLO MAGDALENA, JAVIER
 453948 | NAVARRO CLARAS, MARIO
 647973 | PERALTA MARTÍNEZ, SANTIAGO
