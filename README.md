@@ -23,7 +23,7 @@ NIA    | User name | Repo | Build Status | What was explored | Alternative | Sco
 540891 | MENENDEZ MOYA, FRANCISCO | [Repo](https://github.com/fmenemo/lab2-big-ws/tree/test) | [![Build Status](https://travis-ci.org/fmenemo/lab2-big-ws.svg?branch=test)](https://travis-ci.org/fmenemo/lab2-big-ws) | Added translation tests from spanish to german
 680882 | MORENO JIMENO, RUBÉN
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO
-650448 | MURILLO MAGDALENA, JAVIER
+650448 | MURILLO MAGDALENA, JAVIER | [Repo](https://github.com/javmurillo/lab2-big-ws/tree/test) | [![Build Status](https://travis-ci.org/javmurillo/lab2-big-ws.svg?branch=test)](https://travis-ci.org/javmurillo/lab2-big-ws) | Added a test in order to check the translation from spanish to basque.
 453948 | NAVARRO CLARAS, MARIO
 647973 | PERALTA MARTÍNEZ, SANTIAGO
 683546 | PÉREZ CANCER, BEATRIZ
