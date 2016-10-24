@@ -24,4 +24,9 @@ public class TranslatorServiceTest {
         assertEquals("Esto es una prueba de servicio de traducción",translatedText.getTranslation());
     }
 
+    @Test
+    public void translateGreekToSpanish () throws Exception {
+        TranslatedText translatedText = translatorService.translate("el", "es", "μεταφρασμένο κείμενο στα ισπανικά");
+        assertEquals("texto traducido en español",translatedText.getTranslation());
+    }
 }
